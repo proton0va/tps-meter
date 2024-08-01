@@ -8,7 +8,7 @@
 		"Nova"
 	],
 	"contact": {
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/proton0va/tps-meter"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/tps-meter/icon.png",
